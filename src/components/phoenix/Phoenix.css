@@ -1,0 +1,59 @@
+.stroke{
+    background-image: url("/src/assets/skills boxs/stroke.png");
+    width: 440px;
+    height: 990px;
+    margin: 90px;
+
+    background-color: coral;
+    z-index: 0;
+
+}
+.Fenix{
+    background-image: url("/src/assets/Phoenix/Art.png");
+    width: 440px;
+    height: 990px;
+    margin: 90px;
+    z-index: 1;
+}
+.fenix_name{
+    font-family: "Druk Wide Medium";
+    font-size: 30px;
+
+}
+.skill_box_fenix {
+    background-image: url("/src/assets/skills boxs/skill_box(white).png");
+    background-color: coral;
+    border: 2px solid black;
+    box-sizing: border-box;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+    width: 440px;
+    height: 110px;
+
+}
+.first_skill{
+    background-image: url("/src/assets/Phoenix/first_skill(fenix).png");
+    width: 53px;
+    height: 72px;
+    transform: scale(1,-1);
+}
+.second_skill{
+    background-image: url("/src/assets/Phoenix/second_skill(fenix).png");
+    width: 36px;
+    height: 65px;
+
+    transform: scale(1,-1);
+}
+.third_skill{
+    background-image: url("/src/assets/Phoenix/third_skill(fenix).png");
+    width: 69px;
+    height: 51px;
+
+    transform: scale(1,-1);
+}
+.ultimate{
+    background-image: url("/src/assets/Phoenix/ultimate(fenix).png");
+    width: 57px;
+    height: 43px;
+
+    transform: scale(1,-1);
+}

@@ -1,0 +1,69 @@
+.stroke3{
+    background-image: url("/src/assets/skills boxs/stroke.png");
+    width: 440px;
+    height: 990px;
+    margin: 90px;
+
+    background-color:springgreen;
+}
+.sage{
+    background-image: url("/src/assets/Sage/Art3.png");
+    width: 440px;
+    height: 990px;
+    margin: 90px;
+
+    z-index: 1;
+}
+
+
+
+.sage_name{
+    font-family: "Druk Wide Medium";
+    font-size: 30px;
+
+}
+
+
+
+
+.skill_box_sage{
+    background-image: url("/src/assets/skills boxs/skill_box(white).png");
+    background-color: #3bee94;
+    border: 2px solid black;
+    box-sizing: border-box;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+    width: 440px;
+    height: 110px;
+
+}
+
+
+.fss{
+    background-image: url("/src/assets/Sage/first_skill_sage.png");
+    width: 50px;
+    height: 48px;
+
+    transform: scale(1,-1);
+}
+.sss{
+    background-image: url("/src/assets/Sage/second_skill_sage.png");
+    width: 70px;
+    height: 35px;
+
+    transform: scale(1,-1);
+
+}
+.tss{
+    background-image: url("/src/assets/Sage/third_skill_sage.png");
+    width: 53px;
+    height: 53px;
+
+    transform: scale(1,-1);
+}
+.us {
+    background-image: url("/src/assets/Sage/ultimate_sage.png");
+    width: 52px;
+    height: 46px;
+
+    transform: scale(1, -1);
+}

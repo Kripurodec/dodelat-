@@ -1,0 +1,60 @@
+.stroke2{
+    background-image: url("/src/assets/skills boxs/stroke.png");
+    width: 440px;
+    height: 990px;
+    margin: 90px;
+
+    background-color: deepskyblue;
+}
+.sova{
+    background-image: url("/src/assets/Sova/Art2.png");
+    width: 440px;
+    height: 919px;
+    margin: 90px;
+
+    z-index: 1;
+}
+.SOOVA_name{
+    font-family: "Druk Wide Medium";
+    font-size: 30px;
+
+}
+.skill_box_sova{
+    background-image: url("/src/assets/skills boxs/skill_box(white).png");
+    background-color: deepskyblue;
+    border: 2px solid black;
+    box-sizing: border-box;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+    width: 440px;
+    height: 110px;
+
+
+}
+.fssova{
+    background-image: url("/src/assets/Sova/first_skill_sova.png");
+    width: 61px;
+    height: 58px;
+
+    transform: scale(1,-1);
+}
+.sssova{
+    background-image: url("/src/assets/Sova/second_skill_sova.png");
+    width: 68px;
+    height: 23px;
+
+    transform: scale(1,-1);
+}
+.tssova{
+    background-image: url("/src/assets/Sova/third_skill_sova.png");
+    width: 60px;
+    height: 53px;
+
+    transform: scale(1,-1);
+}
+.usova{
+    background-image: url("/src/assets/Sova/ultimate_sova.png");
+    width: 57px;
+    height: 55px;
+
+    transform: scale(1,-1);
+}

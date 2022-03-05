@@ -1,0 +1,54 @@
+.stroke1{
+    background-image: url("/src/assets/skills boxs/stroke.png");
+    width: 440px;
+    height: 990px;
+    margin: 90px;
+    background-color: cornsilk;
+}
+.jett{
+    background-image: url("/src/assets/jett/Art1.png");
+    width: 440px;
+    height: 919px;
+    margin: 90px;
+
+    z-index: 1;
+}
+.jett_name{
+    font-family: "Druk Wide Medium";
+    font-size: 30px;
+
+}
+.skill_box_jett{
+    background-image: url("/src/assets/skills boxs/skill_box(white).png");
+    background-color: #1F2326;
+    border: 2px solid cornsilk;
+    box-sizing: border-box;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+    width: 440px;
+    height: 110px;
+
+}
+.fsj{
+    background-image: url("/src/assets/jett/First_skill_jett.png");
+    width: 47px;
+    height: 59px;
+    transform: scale(1,-1);
+}
+.ssj{
+    background-image: url("/src/assets/jett/second_skill_jett.png");
+    width: 43px;
+    height: 57px;
+    transform: scale(1,-1);
+}
+.tsj{
+    background-image: url("/src/assets/jett/third_skill_jett.png");
+    width: 58px;
+    height: 45px;
+    transform: scale(1,-1);
+}
+.uj{
+    background-image: url("/src/assets/jett/ultimate_jett.png");
+    width: 53px;
+    height: 58px;
+    transform: scale(1,-1);
+}
